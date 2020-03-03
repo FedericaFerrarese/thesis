@@ -4,12 +4,16 @@ Folder description:
 # homogeneous
 Simulated solutions for both the one and two species model in the homogeneous case.
 # nonHomogeneous1Species
-Simulated and numerical solutions for the one species model in the non homogeneous case.
-# nonHomogeneous2Species
-Simulated and numerical solutions for the two species model in the non homogeneous case. 
+# simula
+Simulated solutions for the one species model in the non homogeneous case, obtained with the Monte Carlo algorithm.
+# numeric
+Numerical solutions obtained combining a finite difference method in space and implicit or explicit methods in time. 
 
-Simulated solutions are obtained with the Monte Carlo algorithm.
-Numerical solutions are obtained combining a finite difference method in space and implicit or explicit methods in time. 
+# nonHomogeneous2Species
+# simula
+Simulated solutions for the one species model in the non homogeneous case, obtained with the Monte Carlo algorithm.
+# numeric
+Numerical solutions obtained combining a finite difference method in space and implicit or explicit methods in time. 
 
 # predatorPrey
 # simula
