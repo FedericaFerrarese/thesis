@@ -1,9 +1,10 @@
 # thesis
-In my Master's thesis, the main stochastic models in population biology that I have studied are the competition and predator-prey systems in both the homogeneous and heterogeneous cases.
+Competition and predator-prey models in both the homogeneous and heterogeneous cases.
 
-I have focused on the individual behavior of the system that can be simulated with Monte Carlo algorithms. It is well known that when the sample size is large, the computational cost of the Monte Carlo algorithm is high and so it is convenient to describe the dynamics with the mean-field equations. I have shown how to derive this equations, that are either ordinary differential equations or partial differential equations and how to solve them.
+The individual behavior of the system can be simulated with Monte Carlo algorithms. Here you can find the codes that implement the algorithm. 
+When the sample size is large, the dynamics can be descibed by the mean field equation. Here I show how to solve the mean field equation numerically in the heterogeneous case. 
 
-In the last part, I have studied the oscillatory behavior of the solutions in a predator-prey model focusing on the different nature of oscillation between the simulations and the numerical solutions and on the regularity of the period.
+The solutions of the predator-prey model present an oscillatory behavior. First, I focous on the regularity of the period and then, studying Langevin equation, I recover the behaviour of the simulations and the numerical solutions. 
 
 
 Folder description:
